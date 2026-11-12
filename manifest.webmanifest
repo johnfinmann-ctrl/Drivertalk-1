@@ -1,7 +1,7 @@
 {
   "name": "DriverTalk",
   "short_name": "DriverTalk",
-  "description": "Faste flersprogede beskeder til lager og chauffør",
+  "description": "Faste chaufførbeskeder på 12 sprog; valgfri fri tekstoversættelse",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
