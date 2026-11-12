@@ -1,11 +1,11 @@
-DriverTalk V1.11 — UDVIKLINGSVERSION, IKKE ENDELIG OVERDRAGELSE
+DriverTalk V1.12 – Carletti pilot
 
-Upload index.html, config.js, sw.js, manifest.webmanifest, icon-192.png og icon-512.png til roden af GitHub-repositoriet Drivertalk-1.
+1. Upload de 7 filer fra denne ZIP direkte i roden af GitHub-repository Drivertalk-1.
+2. Under Settings > Pages: main / (root).
+3. Faste sætninger og chaufførsvar fungerer uden login, database eller Azure.
+4. Vælg sprog, brug Beskeder til lagerets spørgsmål og Chaufføren svarer til tilbagemeldinger.
+5. Valgfri fri oversættelse kræver senere en sikret serverfunktion og Carlettis egne nøgler; slukket som standard i config.js.
+6. Oversættelser – især sikkerhed – skal kontrolleres før drift.
+7. Ingen automatiseret lagring eller læring af nye sætninger.
 
-Faste beskeder og chaufførsvar virker uden Azure. Den nye sætning "Du læsser selv lastbilen" findes på alle 12 chaufførsprog (oversættelsesudkast, kræver kvalitetssikring).
-
-Fri tekstoversættelse er FORBEREDT, men SLÅET FRA. Carletti kan senere vælge at opsætte en separat sikker backend og Azure Translator. Indtil da er der ikke noget skrivefelt i appen.
-
-Backend-kode og vejledning ligger i separat overdragelsespakke. Appen bruger ingen login, database eller mikrofon. Ingen bookingnumre eller persondata bør indtastes i fri oversættelse.
-
-Du beholder GitHub og redigerer appen videre. Først efter særskilt godkendelse overdrages kode, konfiguration og drift til Carletti.
+NB: Upload alle filer til samme mappe. ZIP indeholder ingen undermappe.
