@@ -1,11 +1,9 @@
-DriverTalk V1.13 – Carletti pilot
+DriverTalk V1.14 – fejlrettelse af hurtigbeskeder
 
-1. Upload de 7 filer fra denne ZIP direkte i roden af GitHub-repository Drivertalk-1.
-2. Under Settings > Pages: main / (root).
-3. Faste sætninger og chaufførsvar fungerer uden login, database eller Azure.
-4. Vælg sprog, brug Beskeder til lagerets spørgsmål og Chaufføren svarer til tilbagemeldinger.
-5. Valgfri fri oversættelse kræver senere en sikret serverfunktion og Carlettis egne nøgler; slukket som standard i config.js.
-6. Oversættelser – især sikkerhed – skal kontrolleres før drift.
-7. Ingen automatiseret lagring eller læring af nye sætninger.
+Upload alle 7 filer direkte i rodmappen af GitHub-repository Drivertalk-1.
+Erstat de eksisterende filer og vælg Commit changes.
 
-NB: Upload alle filer til samme mappe. ZIP indeholder ingen undermappe.
+Rettet: Beskedlisten havde et tomt element, som stoppede rendering af de 10 hurtigbeskeder.
+Bevaret: 12 sprog, chaufførsvar, Afspil, Vis stort, kategorier, CMR-beskeder og valgfri (deaktiveret) Azure-tekstoversættelse.
+
+Oversættelser skal kvalitetssikres før praktisk brug, særligt sikkerhedsbeskeder.
