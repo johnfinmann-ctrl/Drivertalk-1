@@ -1,4 +1,4 @@
-DriverTalk V1.12 – Carletti pilot
+DriverTalk V1.13 – Carletti pilot
 
 1. Upload de 7 filer fra denne ZIP direkte i roden af GitHub-repository Drivertalk-1.
 2. Under Settings > Pages: main / (root).
