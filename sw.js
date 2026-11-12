@@ -1,5 +1,5 @@
-const CACHE='drivertalk-carletti-v114';
-const ASSETS=['./','./index.html','./config.js','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
+const CACHE='drivertalk-carletti-v116';
+const ASSETS=['./','./index.html','./config.js','./manifest.webmanifest','./icon-192.png','./icon-512.png','./carletti-logo.png'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS))));
 self.addEventListener('activate',e=>e.waitUntil(Promise.all([
  caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('drivertalk-')&&k!==CACHE).map(k=>caches.delete(k)))),self.clients.claim()])));

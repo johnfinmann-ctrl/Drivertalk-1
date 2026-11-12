@@ -1,12 +1,12 @@
 {
-  "name": "DriverTalk",
+  "name": "DriverTalk – Carletti",
   "short_name": "DriverTalk",
-  "description": "Faste chaufførbeskeder på 12 sprog; valgfri fri tekstoversættelse",
+  "description": "Carletti pilot: DriverTalk med faste chaufførbeskeder på 12 sprog",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#eef3f6",
-  "theme_color": "#102b41",
+  "background_color": "#F6F4F4",
+  "theme_color": "#C5091B",
   "icons": [
     {
       "src": "icon-192.png",
