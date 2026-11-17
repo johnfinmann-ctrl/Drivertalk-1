@@ -1,6 +1,3 @@
-DriverTalk-1 V1.18 – Carletti pilot
-
-Nye spørgsmål i eksisterende kategorier, bl.a. elektronisk CMR, transportfirma, paller, beskadiget gods, kølemaskine og fragtpapirer.
-Fri tekstoversættelse er fortsat slået fra og kræver Carlettis egen Azure Translator-backend. Ingen mikrofon er tilføjet. Afspil bruger browserens stemmer.
-Alle oversættelser er udkast og kræver kontrol af sprogkyndige før drift.
-Upload filerne direkte i repository-roden og erstat de eksisterende.
+DriverTalk Version 1.20 – Carletti. Upload alle 8 filer i roden af GitHub-repository Drivertalk-1.
+Ændringer: PILOT V1.19 erstattet med Version 1.20; synlig gul advarselsramme om oversættelsesudkast fjernet; footer opdateret; PWA-cache versionsskiftet. Øvrige funktioner uændrede.
+VIGTIGT FØR DRIFT: Det er ikke dokumenteret, at alle 12 sprogs sikkerheds- og CMR-oversættelser er gennemgået af sprogkyndige. Fjernelse af synlig advarsel er ikke det samme som godkendelse. Carletti bør godkende oversættelser, instruktioner og test på arbejdsudstyr. Afspilning afhænger af tilgængelige stemmer. Fri Azure-tekstoversættelse er ikke aktiv.

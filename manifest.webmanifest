@@ -1,7 +1,7 @@
 {
   "name": "DriverTalk – Carletti",
   "short_name": "DriverTalk",
-  "description": "Carletti pilot: DriverTalk med faste chaufførbeskeder på 12 sprog",
+  "description": "DriverTalk med faste chaufførbeskeder på 12 sprog",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
