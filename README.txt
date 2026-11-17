@@ -1,3 +1,13 @@
-DriverTalk Version 1.20 – Carletti. Upload alle 8 filer i roden af GitHub-repository Drivertalk-1.
-Ændringer: PILOT V1.19 erstattet med Version 1.20; synlig gul advarselsramme om oversættelsesudkast fjernet; footer opdateret; PWA-cache versionsskiftet. Øvrige funktioner uændrede.
-VIGTIGT FØR DRIFT: Det er ikke dokumenteret, at alle 12 sprogs sikkerheds- og CMR-oversættelser er gennemgået af sprogkyndige. Fjernelse af synlig advarsel er ikke det samme som godkendelse. Carletti bør godkende oversættelser, instruktioner og test på arbejdsudstyr. Afspilning afhænger af tilgængelige stemmer. Fri Azure-tekstoversættelse er ikke aktiv.
+DriverTalk-1 til Carletti – Version 1.22
+
+Uploader alle 8 filer direkte i repositoryets rodmappe.
+
+Ændringer:
+- 12 nye faste sætninger i de eksisterende kategorier.
+- 10 hurtigbeskeder og deres placering er uændrede.
+- Alle 12 chaufførsprog bevaret.
+- Chaufførsvar, Afspil, Vis stort, Carletti-logo og Nordic Operations™ bevaret.
+- Fri tekstoversættelse er KLARGJORT men ikke aktiveret; config.js har tomt endpoint.
+- Ingen mikrofon eller Azure-nøgle.
+
+BEMÆRK: De nye oversættelser er oversættelsesudkast. Sikkerhedstekster og øvrige oversættelser skal kontrolleres af sprogkyndige og godkendes til den konkrete arbejdsplads.
